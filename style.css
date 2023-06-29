@@ -1,0 +1,26 @@
+html {
+    background-color: #f95959;
+    text-align: center;
+}
+
+h1 {
+    margin: 2%;
+}
+button{
+    font-size: 15pt;
+    border-radius: 5px;
+}
+.container {
+    background-color: #e3e3e3;
+    padding: 2%;
+    border-radius: 5px;
+    margin-inline: 20%;  
+}
+
+.button-container {
+    margin: 2%;
+}
+
+#value {
+    font-size: 100pt;
+}
